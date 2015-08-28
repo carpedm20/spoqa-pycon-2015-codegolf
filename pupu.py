@@ -1,1 +1,1 @@
-print open('Z').read()
+print open('test.py').read()[191:2876]
