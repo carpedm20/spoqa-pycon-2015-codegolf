@@ -1,1 +1,1 @@
-import urllib;print urllib.urlopen('http://bit.do/x91').read()
+import urllib;print urllib.urlopen('http://oa.to/Z').read()
