@@ -1,1 +1,1 @@
-import urllib;print(urllib.urlopen('http://bit.ly/1PC4rJp').read())
+import urllib;print(urllib.urlopen('http://qr.net/3326').read())
